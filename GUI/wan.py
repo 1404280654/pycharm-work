@@ -148,7 +148,7 @@ class my1_frame(wx.Frame):
 
 if __name__=="__main__":
     app = wx.App(False)
-    frame = my1_frame(None, '美味皮得很收',1)
+    frame = my1_frame(None, '美味',1)
     my1_frame.add_element(frame)
     my1_frame.Application(frame)
     app.MainLoop()
