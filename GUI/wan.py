@@ -5,6 +5,7 @@ from GUI.jump_frame import MyApp
 import random
 import time
 
+
 class my1_frame(wx.Frame):
     """We simple derive a new class of Frame"""
     def __init__(self,parent, title,number):
