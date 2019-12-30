@@ -34,7 +34,7 @@ class mytest(unittest.TestCase):
         """每个测试case结束执行一次"""
         print "- - tearDown"
 
-    #具体测试用例
+    # 具体测试用例
     def testsum(self):
         self.assertEqual(myclass.sum(self.a,self.b), 4 ,'test summ fail')
 

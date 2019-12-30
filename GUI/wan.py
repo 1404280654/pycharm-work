@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import wx
 from GUI.jump_frame import MyApp
 import random
@@ -63,7 +65,7 @@ class my1_frame(wx.Frame):
         dl = wx.MessageDialog(self, "你的眼光非常不错，很有前途，这个选择非常正确", "摸摸哒", wx.OK)  # 创建一个对话框，有一个ok的按钮
         dl.ShowModal()  # 显示对话框
 
-        print("亲爱的小乔皮得很：")
+        print("亲爱的美味皮得很：")
 
         print("漫无目的的刷记录着别人色彩斑斓生活的抖音，而自己却感觉生活在迷雾中，朦朦胧胧，浑浑噩噩的")
 
@@ -82,7 +84,7 @@ class my1_frame(wx.Frame):
 
         print("思念你的时生")
 
-        print("2018年8月310日")
+        print("2019年12月30日")
 
         time.sleep(1)
         self.Destroy()
@@ -113,7 +115,7 @@ class my1_frame(wx.Frame):
 
     #关于没什么用
     def on_about(self,e):#about按钮的处理函数
-        dlg = wx.MessageDialog(self,"希望小乔皮得很玩得开心，", "About sample Anything", wx.OK)#创建一个对话框，有一个ok的按钮
+        dlg = wx.MessageDialog(self,"希望美味皮得很玩得开心，", "About sample Anything", wx.OK)#创建一个对话框，有一个ok的按钮
         dlg.ShowModal()#显示对话框
 
 
@@ -124,9 +126,28 @@ class my1_frame(wx.Frame):
         dlg.ShowModal()  # 显示对话框
         self.Close(True)
 
+    def test_baidu_01(self):
+        dr=self.dr
+        dr.get(self.base_url)
+        dr.find_element_by_id('kw').send_keys('unittest')
+        time.sleep(2)
+        dr.find_element_by_id('su').click()
+        time.sleep(3)
+        self.assertIn('unittest',dr.title)
+        print("sdfsd")
+
+    def test_baidu_02(self):
+        dr=self.dr
+        dr.get(self.base_url)
+        dr.find_element_by_id('kw').send_keys('123')
+        dr.find_element_by_id('su').click()
+        time.sleep(3)
+        # 断言
+        self.assertIn('123',dr.title)
+
 if __name__=="__main__":
     app = wx.App(False)
-    frame = my1_frame(None, '小乔皮得很收',1)
+    frame = my1_frame(None, '美味皮得很收',1)
     my1_frame.add_element(frame)
     my1_frame.Application(frame)
     app.MainLoop()

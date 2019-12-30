@@ -1,10 +1,11 @@
-# coding='utf-8'
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 from selenium import webdriver
-import unittest,time,os
-import logging,traceback
+import unittest, time, os
+import logging, traceback
 import ddt
-from XMLdatadriver.XmlUtil import ParseXML
+from XmlUtil import ParseXML
 from selenium.common.exceptions import NoSuchElementException
 
 
@@ -30,6 +31,7 @@ dataFilePath = os.path.join(currentPath,"TestData.xml")
 
 #创建ParseXML类实例对象
 xml = ParseXML(dataFilePath)
+
 
 @ddt.ddt
 class DemoTest(unittest.TestCase):

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import math
 
 #1.判断3的200次方能否被7整除

@@ -1,5 +1,7 @@
-# coding='utf-8'
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import requests
+from jiekouProjiect.config import VarConfig as var
 
 '''1.0
 一个简单的例子'''
@@ -80,3 +82,21 @@ r = requests.get('https://httpbin.org/hidden-basic-auth/user/passwd', auth=HTTPB
 print(r.json())
 
 
+# cookie的获取方法
+def test(self):
+    data = {
+        'phoneCode': '86',
+        'mobile': '13048967219',
+        'password': '123123aA',
+        'token': '',
+        'deviceId': '864426036659813',
+        'clientType': '4',  # 客户端类型 1:IOS App Store版本 2:IOS企业版 3:Android Google Play版本 4:Android 普通版本（必填）
+        'clientVersion': '1.0.0',
+    }
+    r = requests.post(url=var.stem_cell_url + '/user/applogin', data=data)
+    print r.cookies
+    ck_dict = requests.utils.dict_from_cookiejar(r.cookies) # 类型转换为字典
+    print(type(ck_dict))
+    print ck_dict.keys()[0]  # 输出字典的第一个键
+    print ck_dict.values()  # 输出字典的所有值
+    print r.headers['Set-Cookie']  # 直接获取cookie

@@ -1,4 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import xlrd
+
 
 def read_excel():
      # 打开文件

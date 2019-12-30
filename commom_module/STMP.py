@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import smtplib,time
 from email.mime.text import MIMEText
 # 发送邮件相关参数
