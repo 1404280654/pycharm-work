@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6c75f4e-8c94-4558-b964-f85e842712e6" name="Default" comment="将不要的代码删除了" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Alldemo$pytest_in_Moudle_one_py.coverage" NAME="pytest in Moudle_one.py Coverage Results" MODIFIED="1543301980881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/Alldemo$pytest_for_Moudle_two_TestDictValueFormatFunction.coverage" NAME="pytest for Moudle_two.TestDictValueFormatFunction Coverage Results" MODIFIED="1543303858939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/SecretWeb" />
+    <SUITE FILE_PATH="coverage/Alldemo$pytest_in_Moudle_three_py.coverage" NAME="pytest in Moudle_three.py Coverage Results" MODIFIED="1543311564140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_kuangjai" />
+    <SUITE FILE_PATH="coverage/Alldemo$Moudle_one.coverage" NAME="Moudle_one Coverage Results" MODIFIED="1543307103500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/Alldemo$pytest_in_Moudle_two_py.coverage" NAME="pytest in Moudle_two.py Coverage Results" MODIFIED="1543307291968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_kuangjai" />
+    <SUITE FILE_PATH="coverage/Alldemo$wan.coverage" NAME="wan Coverage Results" MODIFIED="1577439732601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/Alldemo$pytest_for_Moudle_one_mytest_testsum.coverage" NAME="pytest for Moudle_one.mytest.testsum Coverage Results" MODIFIED="1543301650676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/Alldemo$pytest_for_Moudle_two_TestSequenceFunction.coverage" NAME="pytest for Moudle_two.TestSequenceFunction Coverage Results" MODIFIED="1544085413545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_kuangjai" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2106599350">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="58" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="12" />
+          <entry key="project.open.time.6" value="26" />
+          <entry key="project.open.time.7" value="13" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="jpg" value="3" />
+          <entry key="log" value="4" />
+          <entry key="pth" value="1" />
+          <entry key="py" value="87" />
+          <entry key="pyd" value="1" />
+          <entry key="pyi" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="3" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="87" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2957" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="2957" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commom_module/Excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commom_module/Element demo exercise/demo-lianxi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUI/jump_frame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1577439279556" expanded="true" signature="563:564" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest_kuangjai/test-one.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest_kuangjai/test_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="33" column="37" selection-start-line="16" selection-start-column="4" selection-end-line="33" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commom_module/STMP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI/wan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2800">
+              <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+              <folding>
+                <element signature="e#47#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>）</find>
+      <find>（</find>
+      <find> </find>
+      <find>小乔</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>)</replace>
+      <replace>(</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/request.py" />
+        <option value="$PROJECT_DIR$/unittest/Moudle_one.py" />
+        <option value="$PROJECT_DIR$/unittest/SecretWeb/Moudle_two.py" />
+        <option value="$PROJECT_DIR$/unittest/Moudle_two.py" />
+        <option value="$PROJECT_DIR$/unittest_kuangjai/Moudle_three.py" />
+        <option value="$PROJECT_DIR$/unittest_kuangjai/Moudle_two.py" />
+        <option value="$PROJECT_DIR$/commom_module/Browser.py" />
+        <option value="$PROJECT_DIR$/unittest_kuangjai/511.py" />
+        <option value="$PROJECT_DIR$/Request/module.py" />
+        <option value="$PROJECT_DIR$/unittest_kuangjai/test_case.py" />
+        <option value="$PROJECT_DIR$/unittest_kuangjai/Moudle_one.py" />
+        <option value="$PROJECT_DIR$/commom_module/sdf.py" />
+        <option value="$PROJECT_DIR$/commom_module/init-function.py" />
+        <option value="$PROJECT_DIR$/ASDF2/XMLdatadriver/Test_DataDrivenByXML.py" />
+        <option value="$PROJECT_DIR$/commom_module/LoginCookies.py" />
+        <option value="$PROJECT_DIR$/Based on practice/one.py" />
+        <option value="$PROJECT_DIR$/commom_module/Element demo exercise/demo-lianxi.py" />
+        <option value="$PROJECT_DIR$/commom_module/Element demo exercise/pacong.py" />
+        <option value="$PROJECT_DIR$/commom_module/Excel.py" />
+        <option value="$PROJECT_DIR$/commom_module/GetCookie.py" />
+        <option value="$PROJECT_DIR$/commom_module/list.py" />
+        <option value="$PROJECT_DIR$/commom_module/Element control/list.py" />
+        <option value="$PROJECT_DIR$/commom_module/sort_rank/sort.py" />
+        <option value="$PROJECT_DIR$/commom_module/Txt.py" />
+        <option value="$PROJECT_DIR$/commom_module/STMP.py" />
+        <option value="$PROJECT_DIR$/GUI/jump_frame.py" />
+        <option value="$PROJECT_DIR$/GUI/wan.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="327" />
+    <option name="y" value="53" />
+    <option name="width" value="1475" />
+    <option name="height" value="932" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Alldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alldemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Request" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Test/Desktop/pycharm-work/Alldemo/unittest/SecretWeb/geckodriver.log" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\GUI\picture" />
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\commom_module" />
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\unittest_kuangjai" />
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\unittest\SecretWeb" />
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\unittest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\commom_module\Element_control" />
+      <recent name="C:\Users\Test\Desktop\pycharm-work\Alldemo\commom_module\Element control" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.wan">
+    <configuration name="Moudle_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Alldemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest/Moudle_one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Alldemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/wan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Moudle_two.TestSequenceFunction" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Alldemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_kuangjai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Moudle_two.TestSequenceFunction&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Moudle_three.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Alldemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_kuangjai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest_kuangjai/Moudle_three.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Moudle_two.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Alldemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_kuangjai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest_kuangjai/Moudle_two.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in Moudle_two.py" />
+      <item itemvalue="Python.Moudle_one" />
+      <item itemvalue="Python tests.pytest in Moudle_three.py" />
+      <item itemvalue="Python tests.pytest for Moudle_two.TestSequenceFunction" />
+      <item itemvalue="Python.wan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wan" />
+        <item itemvalue="Python tests.pytest for Moudle_two.TestSequenceFunction" />
+        <item itemvalue="Python tests.pytest in Moudle_three.py" />
+        <item itemvalue="Python tests.pytest in Moudle_two.py" />
+        <item itemvalue="Python.Moudle_one" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6c75f4e-8c94-4558-b964-f85e842712e6" name="Default" comment="" />
+      <created>1537241488264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537241488264</updated>
+    </task>
+    <task id="LOCAL-00001" summary="将不要的代码删除了">
+      <created>1577691893865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577691893865</updated>
+    </task>
+    <task id="LOCAL-00002" summary="将不要的代码删除了">
+      <created>1577692022257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577692022257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="将不要的代码删除了">
+      <created>1577692615297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577692615297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_Moudle_two_py - 2018.11.27 at 16h 07m 35s.xml">
+      <configuration name="pytest in Moudle_two.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_two_py - 2018.11.27 at 16h 08m 24s.xml">
+      <configuration name="pytest in Moudle_two.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_two_py - 2018.11.27 at 16h 08m 35s.xml">
+      <configuration name="pytest in Moudle_two.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Moudle_two_TestSequenceFunction - 2018.11.27 at 16h 24m 36s.xml">
+      <configuration name="pytest for Moudle_two.TestSequenceFunction" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_two_py - 2018.11.27 at 16h 28m 13s.xml">
+      <configuration name="pytest in Moudle_two.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_three_py - 2018.11.27 at 17h 35m 23s.xml">
+      <configuration name="pytest in Moudle_three.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_three_py - 2018.11.27 at 17h 35m 36s.xml">
+      <configuration name="pytest in Moudle_three.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_three_py - 2018.11.27 at 17h 38m 33s.xml">
+      <configuration name="pytest in Moudle_three.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Moudle_three_py - 2018.11.27 at 17h 39m 24s.xml">
+      <configuration name="pytest in Moudle_three.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Moudle_two_TestSequenceFunction - 2018.12.06 at 16h 36m 55s.xml">
+      <configuration name="pytest for Moudle_two.TestSequenceFunction" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="327" y="53" width="1475" height="932" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28975266" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893993" weight="0.23086575" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39974937" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964663" weight="0.32998747" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49893993" visible="true" weight="0.32998747" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106007" side_tool="true" visible="true" weight="0.32998747" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4975265" weight="0.32998747" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49964663" weight="0.32873276" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="将不要的代码删除了" />
+    <option name="LAST_COMMIT_MESSAGE" value="将不要的代码删除了" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/commom_module/Element demo exercise/demo-lianxi.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/worksofware/anaconda/Lib/site-packages/_pytest/python.py" />
+    <entry file="file://D:/worksofware/anaconda/Lib/site-packages/py/_path/local.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/SecretWeb/geckodriver.log" />
+    <entry file="file://D:/worksofware/anaconda/Lib/site-packages/_pytest/debugging.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/SecretWeb/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/SecretWeb/test_Login.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/Moudle_one.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/SecretWeb/Moudle_two.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/Moudle_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/sdf.py" />
+    <entry file="file://$PROJECT_DIR$/ASDF2/XMLdatadriver/XmlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASDF2/XMLdatadriver/Test_DataDrivenByXML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Element demo exercise/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2220" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="396" column="54" lean-forward="true" selection-start-line="396" selection-start-column="54" selection-end-line="396" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Element demo exercise/pacong.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/Element demo exercise/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Based on practice/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1126">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Browser.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/CSV.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/GetCookie.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/init-function.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/list.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/LoginCookies.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/Element control/list.py" />
+    <entry file="file://$PROJECT_DIR$/commom_module/Pymysql.py" />
+    <entry file="file://$PROJECT_DIR$/GUI/picture/anger.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Txt.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/Moudle_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/sort_rank/sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/work sofware/anaconda/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1605">
+          <caret line="377" column="8" selection-start-line="377" selection-start-column="8" selection-end-line="377" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/pip3-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/pip-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-3.6-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/Moudle_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/511.py" />
+    <entry file="file://$PROJECT_DIR$/Request/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Element_control/list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/test-one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_kuangjai/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="33" column="37" selection-start-line="16" selection-start-column="4" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/STMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/picture/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commom_module/Element demo exercise/demo-lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/wan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/jump_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1577439279556" expanded="true" signature="563:564" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
